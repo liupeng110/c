@@ -32,7 +32,7 @@ https://github.com/alibaba/vlayout</br></br>
 16. 其他总结</br> https://github.com/389273716/android-skill-summary </br></br> 
 16.追书app </br>
  https://github.com/JustWayward/BookReader  </br></br> 
-16.                  </br></br> 
+16.自动填写短信验证码 </br> https://github.com/xiong-it/AutoInputAuthCode</br></br> 
 16.                  </br></br> 
 16.                  </br></br> 
 16.                  </br></br> 
